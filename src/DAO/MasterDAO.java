@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import DTO.*;
 import GUI.*;
 
-// master table db ¿¬µ¿
 public class MasterDAO {
 	String driver = "com.mysql.cj.jdbc.Driver";
 	String url = "jdbc:mysql://localhost:3306/managementdb";
